@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bytemejd
+- 👋 Hi, I’m @Yusen 
 - 👀 I’m interested in ML, programming languages.
 - 🌱 I’m currently learning seq2seq prediction models.
 - 💞️ I’m looking to collaborate on ML projects.
